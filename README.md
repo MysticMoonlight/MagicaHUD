@@ -18,8 +18,4 @@ Unlikely. Instead you can choose your own background mods freely right [here](ht
 
 It will have fresh new look, and more improvement compared to SparkyHUD, and more.
 
-> **Q:** When will it be released?
-
-When it's done.
-
 ## [Download HUD](https://toonhud.com/user/ah_roon_gaming_ii/theme/QBM3QSWW/)
