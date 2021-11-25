@@ -6,7 +6,7 @@
 
 ## About
 
-MagicaHUD is official continuation of old and abandoned project, SparkyHUD.
+MagicaHUD is official continuation of old and abandoned Team Fortress 2 HUD project, SparkyHUD.
 
 ## Frequently Asked Questions
 
